@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Routes from Denver</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">
+<link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet">
+<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+<script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js'></script>
+<link rel="stylesheet" href="/static/css/style.css">
+<script src="/static/js/dataset.js"></script>
+
+</head>
+<body>
+
+  <style>
+    #map {
+      height: 400px;
+      /* width: 800px; */
+  width: 100vw - margin-left - margin-right;
+    }
+    </style>
+<!-- <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js'></script> -->
+<div class="wrapper">
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/">Let's Fly</a>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <a class="navbar-brand" href="/DEN_routes">Denver Routes </a>
+          <!-- <a class="navbar-brand" href="/analysis">Analysis</a> -->
+        </div>
+      </div>
+    </nav>
+    <h1 class="markerFont dark", style= "margin-left:20px;">Where can you go from Denver?</h1> 
+    <div id="map"></div>
+    <footer class="footer">copyright 2018 Lindsay Renkel & Carly Gerhart
+      </footer>
+  </div> 
+
+
+
+
+
+  <script type="text/javascript" src ="/static/js/routeMap.js"></script>
+
+
+</div>
+</body>
+</html>

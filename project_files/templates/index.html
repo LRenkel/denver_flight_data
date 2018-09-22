@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Flying High</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet">
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+
+<body>
+  <div class="wrapper">
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <!-- <div class="navbar-header">
+          <p class="navbar-brand" href="index.html">Time to Fly </p> -->
+
+        <a class="navbar-brand" href="/">Let's Fly</a>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <a class="navbar-brand" href="/DEN_routes">Denver Routes </a>
+          <!-- <a class="navbar-brand" href="/analysis">Analysis</a> -->
+        </div>
+      </div>
+    </nav>
+    <div class="hero ">
+      <h1 class="markerFont ">Wanna Get Away?</h1>
+      <p>Here is what's hot now</p>
+    </div>
+    <div class="container">
+      <h1 class="markerFont dark">Where can you go from Denver?</h1>
+      <img class='img-responsive' src="../static/images/DenRoutes.png">
+      <div class="row margin-top-50">
+        <h1 class="markerFont dark">Hot Deals</h1>
+        <div class="col-sm-3">
+          <aside class="filters">
+            <div class="panel panel-default">
+              <div class="panel-body">
+                <form>
+                  <div class="form-group filters">
+                    <label class=form>Departure City <br /><em>(three letter code)</em></label>
+                    <input id="start" type="text" class="form-control" aria-describedby="start location" placeholder="DEN">
+                  </div>
+                  <div class="form-group filters">
+                    <label class=form>Month & Year wishing to travel <br /> <em>(YYYY-MM)</em></label>
+                    <input id="month" type="text" class="form-control" aria-describedby="date to travel" placeholder="2018-12">
+                  </div>
+                  <div class="form-inline filters">
+                    <label class="mr-sm-2 form" for="destination">Where to:</label>
+                    <select class="custom-select mb-2 mr-sm-2 mb-sm-0" id="destination">
+                      <option value="US">U.S.</option>
+                      <option value="MX">Mexico</option>
+                      <option value="CA">Canada</option>
+                      <option value="PR">Puerto Rico</option>
+                      <option value="CU">Cuba</option>
+                      <option value="IS">Iceland</option>
+                      <option value="UK">United Kingdom</option>
+                      <option value="AU">Australia</option>
+                      <option value="IT">Italy</option>
+                      <option value="DE">Germany</option>
+                    </select>
+                    <button id="filter-btn" type="submit" class="btn btn-default search">Search</button>
+                </form>
+              </div>
+            </div>
+          </aside>
+        </div>
+        <div class="col-sm-9">
+          <div id="table-area" class="">
+            <table id="flight-table" class="table table-striped">
+              <thead>
+                <tr>
+                  <th class="table-head">City</th>
+                  <th class="table-head">Price</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="footer">copyright 2018 Lindsay Renkel & Carly Gerhart
+    </footer>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+  <!-- <script src="static/js/data.js"></script>  -->
+  <script src="static/js/table_app.js"></script>
+  <!-- <script type="text/javascript"> d3.select("#filter_btn").on("click", reload_table)</script> -->
+  <script>
+
+
+
+
+
+
+
+  </script>
+</body>
+
+</html>

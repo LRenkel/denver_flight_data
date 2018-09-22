@@ -1,0 +1,361 @@
+,start_airport,start_airport_name,start_country,start_lat,start_long,start_altitude,end_airport,end_airport_name,end_country,end_lat,end_long,end_altitude,airline
+50955,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LHR,London Heathrow Airport,Finland,51.4706,-0.461941,83,Finnair
+50956,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LHR,London Heathrow Airport,United Kingdom,51.4706,-0.461941,83,British Airways
+50957,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LHR,London Heathrow Airport,Spain,51.4706,-0.461941,83,Iberia Airlines
+50958,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,FRA,Frankfurt am Main International Airport,Germany,50.0333333,8.5705556,364,Lufthansa
+50959,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,FRA,Frankfurt am Main International Airport,Germany,50.0333333,8.5705556,364,Lufthansa Cargo
+50960,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ORD,Chicago O'Hare International Airport,United States,41.97859955,-87.90480042,672,United Airlines
+50961,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,STL,Lambert St Louis International Airport,United States,38.74869919,-90.37000275,618,United Airlines
+50962,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,YUL,Montreal / Pierre Elliott Trudeau International Airport,United States,45.47060013,-73.74079895,118,United Airlines
+50963,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,FLL,Fort Lauderdale Hollywood International Airport,United States,26.07259941,-80.15270233,9,United Airlines
+50964,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,RSW,Southwest Florida International Airport,United States,26.53619957,-81.75520325,30,United Airlines
+50965,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,TPA,Tampa International Airport,United States,27.97550011,-82.53320313,26,United Airlines
+50966,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MCO,Orlando International Airport,United States,28.42939949,-81.30899811,96,United Airlines
+50967,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ATL,Hartsfield Jackson Atlanta International Airport,United States,33.63669968,-84.42810059,1026,United Airlines
+50968,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,YVR,Vancouver International Airport,United States,49.19390106,-123.1839981,14,United Airlines
+50969,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LAX,Los Angeles International Airport,United States,33.94250107,-118.4079971,125,United Airlines
+50970,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LAS,McCarran International Airport,United States,36.08010101,-115.1520004,2181,United Airlines
+50971,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,DFW,Dallas Fort Worth International Airport,United States,32.89680099,-97.03800201,607,United Airlines
+50972,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MIA,Miami International Airport,United States,25.79319954,-80.29060364,8,United Airlines
+50973,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,YYC,Calgary International Airport,United States,51.11389923,-114.0199966,3557,United Airlines
+50974,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,YEG,Edmonton International Airport,United States,53.30970001,-113.5800018,2373,United Airlines
+50975,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MEX,Licenciado Benito Juarez International Airport,United States,19.4363,-99.072098,7316,United Airlines
+50976,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SAT,San Antonio International Airport,United States,29.53370094,-98.46980286,809,United Airlines
+50977,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SJD,Los Cabos International Airport,United States,23.15180016,-109.7210007,374,United Airlines
+50978,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SNA,John Wayne Airport-Orange County Airport,United States,33.67570114,-117.8679962,56,United Airlines
+50979,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CUN,Canc£n International Airport,United States,21.03650093,-86.87709808,22,United Airlines
+50980,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PVR,Licenciado Gustavo D¡az Ordaz International Airport,United States,20.68009949,-105.2539978,23,United Airlines
+50981,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,FRA,Frankfurt am Main International Airport,United States,50.0333333,8.5705556,364,United Airlines
+50982,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,NRT,Narita International Airport,United States,35.76470184,140.3860016,141,United Airlines
+50983,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,YWG,Winnipeg / James Armstrong Richardson International Airport,United States,49.90999985,-97.23989868,783,United Airlines
+50984,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ANC,Ted Stevens Anchorage International Airport,United States,61.17440033,-149.9960022,152,United Airlines
+50985,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CID,The Eastern Iowa Airport,United States,41.88470078,-91.71080017,869,United Airlines
+50986,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CVG,Cincinnati Northern Kentucky International Airport,United States,39.04880142,-84.6678009,896,United Airlines
+50987,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MSP,Minneapolis-St Paul International/Wold-Chamberlain Airport,United States,44.88199997,-93.22180176,841,United Airlines
+50988,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,TYS,McGhee Tyson Airport,United States,35.81100082,-83.9940033,981,United Airlines
+50989,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,XNA,Northwest Arkansas Regional Airport,United States,36.281898,-94.306801,1287,United Airlines
+50990,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MSY,Louis Armstrong New Orleans International Airport,United States,29.99340057,-90.25800323,4,United Airlines
+50991,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,DTW,Detroit Metropolitan Wayne County Airport,United States,42.21239853,-83.35340118,645,United Airlines
+50992,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LGA,La Guardia Airport,United States,40.77719879,-73.87259674,21,United Airlines
+50993,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MEM,Memphis International Airport,United States,35.04240036,-89.97669983,341,United Airlines
+50994,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BOS,General Edward Lawrence Logan International Airport,United States,42.36429977,-71.00520325,20,United Airlines
+50995,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BIL,Billings Logan International Airport,United States,45.80770111,-108.5429993,3652,United Airlines
+50996,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,EWR,Newark Liberty International Airport,United States,40.69250107,-74.16870117,18,United Airlines
+50997,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,YYZ,Lester B. Pearson International Airport,United States,43.67720032,-79.63059998,569,United Airlines
+50998,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PHL,Philadelphia International Airport,United States,39.87189865,-75.2410965,36,United Airlines
+50999,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PHX,Phoenix Sky Harbor International Airport,United States,33.43429947,-112.012001,1135,United Airlines
+51000,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,DCA,Ronald Reagan Washington National Airport,United States,38.8521,-77.037697,15,United Airlines
+51001,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,IAD,Washington Dulles International Airport,United States,38.94449997,-77.45580292,312,United Airlines
+51002,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PIT,Pittsburgh International Airport,United States,40.49150085,-80.23290253,1203,United Airlines
+51003,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PDX,Portland International Airport,United States,45.58869934,-122.5979996,31,United Airlines
+51004,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SAN,San Diego International Airport,United States,32.73360062,-117.1900024,17,United Airlines
+51005,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SEA,Seattle Tacoma International Airport,United States,47.44900131,-122.3089981,433,United Airlines
+51006,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,AUS,Austin Bergstrom International Airport,United States,30.19449997,-97.66989899,542,United Airlines
+51007,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BHM,Birmingham-Shuttlesworth International Airport,United States,33.56290054,-86.75350189,650,United Airlines
+51008,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BNA,Nashville International Airport,United States,36.12450027,-86.67819977,599,United Airlines
+51009,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BWI,Baltimore/Washington International Thurgood Marshall Airport,United States,39.17539978,-76.66829681,146,United Airlines
+51010,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CLE,Cleveland Hopkins International Airport,United States,41.4117012,-81.84980011,791,United Airlines
+51011,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CMH,Port Columbus International Airport,United States,39.9980011,-82.89189911,815,United Airlines
+51012,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,DAY,James M Cox Dayton International Airport,United States,39.90240097,-84.2193985,1009,United Airlines
+51013,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,DSM,Des Moines International Airport,United States,41.5340004,-93.6631012,958,United Airlines
+51014,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,HSV,Huntsville International Carl T Jones Field,United States,34.6371994,-86.77510071,629,United Airlines
+51015,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,IAH,George Bush Intercontinental Houston Airport,United States,29.9843998,-95.34140015,97,United Airlines
+51016,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,IND,Indianapolis International Airport,United States,39.7173,-86.294403,797,United Airlines
+51017,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LIT,Bill & Hillary Clinton National Airport/Adams Field,United States,34.72940063,-92.22429657,262,United Airlines
+51018,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MCI,Kansas City International Airport,United States,39.2976,-94.713898,1026,United Airlines
+51019,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MKE,General Mitchell International Airport,United States,42.94720078,-87.89659882,723,United Airlines
+51020,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,OMA,Eppley Airfield,United States,41.30319977,-95.89409637,984,United Airlines
+51021,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SDF,Louisville International Standiford Field,United States,38.1744,-85.736,501,United Airlines
+51022,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SFO,San Francisco International Airport,United States,37.61899948,-122.375,13,United Airlines
+51023,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SLC,Salt Lake City International Airport,United States,40.78839874,-111.9779968,4227,United Airlines
+51024,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SMF,Sacramento International Airport,United States,38.69540024,-121.5910034,27,United Airlines
+51025,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ABQ,Albuquerque International Sunport Airport,United States,35.04019928,-106.6090012,5355,United Airlines
+51026,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,AMA,Rick Husband Amarillo International Airport,United States,35.2193985,-101.7060013,3607,United Airlines
+51027,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,COS,City of Colorado Springs Municipal Airport,United States,38.80580139,-104.7009964,6187,United Airlines
+51028,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,DRO,Durango La Plata County Airport,United States,37.1515007,-107.7539978,6685,United Airlines
+51029,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ELP,El Paso International Airport,United States,31.80719948,-106.3779984,3959,United Airlines
+51030,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,FAR,Hector International Airport,United States,46.92070007,-96.81580353,902,United Airlines
+51031,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,FAT,Fresno Yosemite International Airport,United States,36.77619934,-119.7180023,336,United Airlines
+51032,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,FSD,Joe Foss Field Airport,United States,43.58200073,-96.74189758,1429,United Airlines
+51033,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,GJT,Grand Junction Regional Airport,United States,39.12239838,-108.5270004,4858,United Airlines
+51034,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,GRR,Gerald R. Ford International Airport,United States,42.88079834,-85.52279663,794,United Airlines
+51035,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,HNL,Honolulu International Airport,United States,21.31870079,-157.9219971,13,United Airlines
+51036,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ICT,Wichita Mid Continent Airport,United States,37.64989853,-97.43309784,1333,United Airlines
+51037,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LBB,Lubbock Preston Smith International Airport,United States,33.66360092,-101.822998,3282,United Airlines
+51038,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MAF,Midland International Airport,United States,31.94249916,-102.2020035,2871,United Airlines
+51039,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MLI,Quad City International Airport,United States,41.44850159,-90.50749969,590,United Airlines
+51040,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MSN,Dane County Regional Truax Field,United States,43.13990021,-89.33750153,887,United Airlines
+51041,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,OGG,Kahului Airport,United States,20.89859962,-156.4299927,54,United Airlines
+51042,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,OKC,Will Rogers World Airport,United States,35.39310074,-97.60070038,1295,United Airlines
+51043,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ONT,Ontario International Airport,United States,34.05599976,-117.6009979,944,United Airlines
+51044,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PIA,General Wayne A. Downing Peoria International Airport,United States,40.66419983,-89.69329834,660,United Airlines
+51045,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PSP,Palm Springs International Airport,United States,33.82970047,-116.5070038,477,United Airlines
+51046,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,RAP,Rapid City Regional Airport,United States,44.04529953,-103.0569992,3204,United Airlines
+51047,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,RNO,Reno Tahoe International Airport,United States,39.49909973,-119.7679977,4415,United Airlines
+51048,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SAF,Santa Fe Municipal Airport,United States,35.61709976,-106.0889969,6348,United Airlines
+51049,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SGF,Springfield Branson National Airport,United States,37.24570084,-93.38860321,1268,United Airlines
+51050,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SHV,Shreveport Regional Airport,United States,32.44660187,-93.82559967,258,United Airlines
+51051,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SJC,Norman Y. Mineta San Jose International Airport,United States,37.36259842,-121.9290009,62,United Airlines
+51052,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,TUL,Tulsa International Airport,United States,36.19839859,-95.88809967,677,United Airlines
+51053,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,TUS,Tucson International Airport,United States,32.11610031,-110.9410019,2643,United Airlines
+51054,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,EUG,Mahlon Sweet Field,United States,44.12459946,-123.211998,374,United Airlines
+51055,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,KOA,Kona International At Keahole Airport,United States,19.73880005,-156.0460052,47,United Airlines
+51056,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LIH,Lihue Airport,United States,21.97599983,-159.3390045,153,United Airlines
+51057,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MFR,Rogue Valley International Medford Airport,United States,42.37419891,-122.8730011,1335,United Airlines
+51058,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MRY,Monterey Peninsula Airport,United States,36.5870018,-121.8430023,257,United Airlines
+51059,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,RDM,Roberts Field,United States,44.2541008,-121.1500015,3080,United Airlines
+51060,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BUR,Bob Hope Airport,United States,34.20069885,-118.3590012,778,United Airlines
+51061,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BFL,Meadows Field,United States,35.43360138,-119.0569992,510,United Airlines
+51062,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BOI,Boise Air Terminal/Gowen field,United States,43.56439972,-116.2229996,2871,United Airlines
+51063,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,GEG,Spokane International Airport,United States,47.61989975,-117.5339966,2376,United Airlines
+51064,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SBA,Santa Barbara Municipal Airport,United States,34.42620087,-119.8399963,13,United Airlines
+51065,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,YMM,Fort McMurray Airport,United States,56.65330124,-111.2220001,1211,United Airlines
+51066,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,YQR,Regina International Airport,United States,50.43190002,-104.6660004,1894,United Airlines
+51067,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,YXE,Saskatoon John G. Diefenbaker International Airport,United States,52.17079926,-106.6999969,1653,United Airlines
+51068,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,HLN,Helena Regional Airport,United States,46.60680008,-111.9830017,3877,United Airlines
+51069,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,GTF,Great Falls International Airport,United States,47.48199844,-111.3710022,3680,United Airlines
+51070,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MSO,Missoula International Airport,United States,46.91630173,-114.0910034,3206,United Airlines
+51071,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PSC,Tri Cities Airport,United States,46.26470184,-119.1190033,410,United Airlines
+51072,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BZN,Gallatin Field,United States,45.77750015,-111.1529999,4473,United Airlines
+51073,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,FCA,Glacier Park International Airport,United States,48.3105011,-114.2559967,2977,United Airlines
+51074,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,RKS,Rock Springs Sweetwater County Airport,United States,41.59420013,-109.0650024,6764,United Airlines
+51075,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BIS,Bismarck Municipal Airport,United States,46.77270126,-100.7460022,1661,United Airlines
+51076,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,DIK,Dickinson Theodore Roosevelt Regional Airport,United States,46.79740143,-102.802002,2592,United Airlines
+51077,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ISN,Sloulin Field International Airport,United States,48.17789841,-103.6419983,1982,United Airlines
+51078,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LNK,Lincoln Airport,United States,40.85100174,-96.75920105,1219,United Airlines
+51079,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MOT,Minot International Airport,United States,48.25939941,-101.2799988,1716,United Airlines
+51080,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,GCC,Gillette Campbell County Airport,United States,44.34889984,-105.5390015,4365,United Airlines
+51081,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,COD,Yellowstone Regional Airport,United States,44.52019882,-109.0240021,5102,United Airlines
+51082,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CPR,Casper-Natrona County International Airport,United States,42.90800095,-106.4639969,5350,United Airlines
+51083,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,IDA,Idaho Falls Regional Airport,United States,43.51459885,-112.0709991,4744,United Airlines
+51084,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,JAC,Jackson Hole Airport,United States,43.6072998,-110.737999,6451,United Airlines
+51085,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SGU,St George Municipal Airport,United States,37.03638889,-113.5103056,2941,United Airlines
+51086,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,FMN,Four Corners Regional Airport,United States,36.74119949,-108.2300034,5506,United Airlines
+51087,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PIR,Pierre Regional Airport,United States,44.38270187,-100.2860031,1744,United Airlines
+51088,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,AIA,Alliance Municipal Airport,United States,42.05319977,-102.8040009,3931,United Airlines
+51089,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ALS,San Luis Valley Regional Bergman Field,United States,37.434898,-105.866997,7539,United Airlines
+51090,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CYS,Cheyenne Regional Jerry Olson Field,United States,41.15570068,-104.8119965,6159,United Airlines
+51091,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ASE,Aspen-Pitkin Co/Sardy Field,United States,39.22320175,-106.8690033,7820,United Airlines
+51092,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,EGE,Eagle County Regional Airport,United States,39.64260101,-106.9179993,6548,United Airlines
+51093,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,GUC,Gunnison Crested Butte Regional Airport,United States,38.53390121,-106.9329987,7680,United Airlines
+51094,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,HDN,Yampa Valley Airport,United States,40.48120117,-107.2180023,6606,United Airlines
+51095,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LAR,Laramie Regional Airport,United States,41.31209946,-105.6750031,7284,United Airlines
+51096,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MTJ,Montrose Regional Airport,United States,38.50979996,-107.8939972,5759,United Airlines
+51097,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PUB,Pueblo Memorial Airport,United States,38.28910065,-104.4970016,4726,United Airlines
+51098,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ATL,Hartsfield Jackson Atlanta International Airport,France,33.63669968,-84.42810059,1026,Air France
+51099,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ATL,Hartsfield Jackson Atlanta International Airport,Italy,33.63669968,-84.42810059,1026,Alitalia
+51100,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ATL,Hartsfield Jackson Atlanta International Airport,Netherlands,33.63669968,-84.42810059,1026,KLM Royal Dutch Airlines
+51101,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ORD,Chicago O'Hare International Airport,United States,41.97859955,-87.90480042,672,American Airlines
+51102,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LAX,Los Angeles International Airport,United States,33.94250107,-118.4079971,125,American Airlines
+51103,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,DFW,Dallas Fort Worth International Airport,United States,32.89680099,-97.03800201,607,American Airlines
+51104,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MIA,Miami International Airport,United States,25.79319954,-80.29060364,8,American Airlines
+51105,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LHR,London Heathrow Airport,United States,51.4706,-0.461941,83,American Airlines
+51106,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CLT,Charlotte Douglas International Airport,United States,35.2140007,-80.94309998,748,American Airlines
+51107,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PHL,Philadelphia International Airport,United States,39.87189865,-75.2410965,36,American Airlines
+51108,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PHX,Phoenix Sky Harbor International Airport,United States,33.43429947,-112.012001,1135,American Airlines
+51109,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SEA,Seattle Tacoma International Airport,United States,47.44900131,-122.3089981,433,American Airlines
+51110,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,YUL,Montreal / Pierre Elliott Trudeau International Airport,Canada,45.47060013,-73.74079895,118,Air Canada
+51111,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ATL,Hartsfield Jackson Atlanta International Airport,Canada,33.63669968,-84.42810059,1026,Air Canada
+51112,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,YVR,Vancouver International Airport,Canada,49.19390106,-123.1839981,14,Air Canada
+51113,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,YYC,Calgary International Airport,Canada,51.11389923,-114.0199966,3557,Air Canada
+51114,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,YEG,Edmonton International Airport,Canada,53.30970001,-113.5800018,2373,Air Canada
+51115,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,YWG,Winnipeg / James Armstrong Richardson International Airport,Canada,49.90999985,-97.23989868,783,Air Canada
+51116,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MSY,Louis Armstrong New Orleans International Airport,Canada,29.99340057,-90.25800323,4,Air Canada
+51117,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,YYZ,Lester B. Pearson International Airport,Canada,43.67720032,-79.63059998,569,Air Canada
+51118,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,YMM,Fort McMurray Airport,Canada,56.65330124,-111.2220001,1211,Air Canada
+51119,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,YQR,Regina International Airport,Canada,50.43190002,-104.6660004,1894,Air Canada
+51120,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,YXE,Saskatoon John G. Diefenbaker International Airport,Canada,52.17079926,-106.6999969,1653,Air Canada
+51121,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ATL,Hartsfield Jackson Atlanta International Airport,Mexico,33.63669968,-84.42810059,1026,AeroM?xico
+51122,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,JFK,John F Kennedy International Airport,United States,40.63980103,-73.77890015,13,JetBlue Airways
+51123,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BOS,General Edward Lawrence Logan International Airport,United States,42.36429977,-71.00520325,20,JetBlue Airways
+51124,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ATL,Hartsfield Jackson Atlanta International Airport,United States,33.63669968,-84.42810059,1026,Delta Air Lines
+51125,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,JFK,John F Kennedy International Airport,United States,40.63980103,-73.77890015,13,Delta Air Lines
+51126,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CVG,Cincinnati Northern Kentucky International Airport,United States,39.04880142,-84.6678009,896,Delta Air Lines
+51127,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MSP,Minneapolis-St Paul International/Wold-Chamberlain Airport,United States,44.88199997,-93.22180176,841,Delta Air Lines
+51128,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,DTW,Detroit Metropolitan Wayne County Airport,United States,42.21239853,-83.35340118,645,Delta Air Lines
+51129,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LGA,La Guardia Airport,United States,40.77719879,-73.87259674,21,Delta Air Lines
+51130,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MEM,Memphis International Airport,United States,35.04240036,-89.97669983,341,Delta Air Lines
+51131,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SLC,Salt Lake City International Airport,United States,40.78839874,-111.9779968,4227,Delta Air Lines
+51132,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ORD,Chicago O'Hare International Airport,United States,41.97859955,-87.90480042,672,Spirit Airlines
+51133,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,FLL,Fort Lauderdale Hollywood International Airport,United States,26.07259941,-80.15270233,9,Spirit Airlines
+51134,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LAS,McCarran International Airport,United States,36.08010101,-115.1520004,2181,Spirit Airlines
+51135,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,DFW,Dallas Fort Worth International Airport,United States,32.89680099,-97.03800201,607,Spirit Airlines
+51136,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MSP,Minneapolis-St Paul International/Wold-Chamberlain Airport,United States,44.88199997,-93.22180176,841,Spirit Airlines
+51137,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,DTW,Detroit Metropolitan Wayne County Airport,United States,42.21239853,-83.35340118,645,Spirit Airlines
+51138,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PHX,Phoenix Sky Harbor International Airport,United States,33.43429947,-112.012001,1135,Spirit Airlines
+51139,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,IAH,George Bush Intercontinental Houston Airport,United States,29.9843998,-95.34140015,97,Spirit Airlines
+51140,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ORD,Chicago O'Hare International Airport,United States,41.97859955,-87.90480042,672,US Airways
+51141,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LAX,Los Angeles International Airport,United States,33.94250107,-118.4079971,125,US Airways
+51142,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,DFW,Dallas Fort Worth International Airport,United States,32.89680099,-97.03800201,607,US Airways
+51143,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MIA,Miami International Airport,United States,25.79319954,-80.29060364,8,US Airways
+51144,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CLT,Charlotte Douglas International Airport,United States,35.2140007,-80.94309998,748,US Airways
+51145,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PHL,Philadelphia International Airport,United States,39.87189865,-75.2410965,36,US Airways
+51146,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PHX,Phoenix Sky Harbor International Airport,United States,33.43429947,-112.012001,1135,US Airways
+51147,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,KEF,Keflavik International Airport,Iceland,63.98500061,-22.60560036,171,Icelandair
+51148,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,NRT,Narita International Airport,Japan,35.76470184,140.3860016,141,All Nippon Airways
+51149,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LAX,Los Angeles International Airport,ALASKA,33.94250107,-118.4079971,125,Alaska Airlines
+51150,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SEA,Seattle Tacoma International Airport,ALASKA,47.44900131,-122.3089981,433,Alaska Airlines
+51151,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,STL,Lambert St Louis International Airport,United States,38.74869919,-90.37000275,618,Frontier Airlines
+51152,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,FLL,Fort Lauderdale Hollywood International Airport,United States,26.07259941,-80.15270233,9,Frontier Airlines
+51153,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,RSW,Southwest Florida International Airport,United States,26.53619957,-81.75520325,30,Frontier Airlines
+51154,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,TPA,Tampa International Airport,United States,27.97550011,-82.53320313,26,Frontier Airlines
+51155,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MCO,Orlando International Airport,United States,28.42939949,-81.30899811,96,Frontier Airlines
+51156,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ATL,Hartsfield Jackson Atlanta International Airport,United States,33.63669968,-84.42810059,1026,Frontier Airlines
+51157,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LAX,Los Angeles International Airport,United States,33.94250107,-118.4079971,125,Frontier Airlines
+51158,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LAS,McCarran International Airport,United States,36.08010101,-115.1520004,2181,Frontier Airlines
+51159,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,DFW,Dallas Fort Worth International Airport,United States,32.89680099,-97.03800201,607,Frontier Airlines
+51160,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SJD,Los Cabos International Airport,United States,23.15180016,-109.7210007,374,Frontier Airlines
+51161,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SNA,John Wayne Airport-Orange County Airport,United States,33.67570114,-117.8679962,56,Frontier Airlines
+51162,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CUN,Canc£n International Airport,United States,21.03650093,-86.87709808,22,Frontier Airlines
+51163,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CZM,Cozumel International Airport,United States,20.5223999,-86.92559814,15,Frontier Airlines
+51164,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PVR,Licenciado Gustavo D¡az Ordaz International Airport,United States,20.68009949,-105.2539978,23,Frontier Airlines
+51165,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SJO,Juan Santamaria International Airport,United States,9.993860245,-84.20880127,3021,Frontier Airlines
+51166,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LIR,Daniel Oduber Quiros International Airport,United States,10.59329987,-85.54440308,270,Frontier Airlines
+51167,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CID,The Eastern Iowa Airport,United States,41.88470078,-91.71080017,869,Frontier Airlines
+51168,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CVG,Cincinnati Northern Kentucky International Airport,United States,39.04880142,-84.6678009,896,Frontier Airlines
+51169,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,GSO,Piedmont Triad International Airport,United States,36.09780121,-79.93730164,925,Frontier Airlines
+51170,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MSP,Minneapolis-St Paul International/Wold-Chamberlain Airport,United States,44.88199997,-93.22180176,841,Frontier Airlines
+51171,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,TYS,McGhee Tyson Airport,United States,35.81100082,-83.9940033,981,Frontier Airlines
+51172,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MSY,Louis Armstrong New Orleans International Airport,United States,29.99340057,-90.25800323,4,Frontier Airlines
+51173,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,DTW,Detroit Metropolitan Wayne County Airport,United States,42.21239853,-83.35340118,645,Frontier Airlines
+51174,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LGA,La Guardia Airport,United States,40.77719879,-73.87259674,21,Frontier Airlines
+51175,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MEM,Memphis International Airport,United States,35.04240036,-89.97669983,341,Frontier Airlines
+51176,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PHX,Phoenix Sky Harbor International Airport,United States,33.43429947,-112.012001,1135,Frontier Airlines
+51177,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,DCA,Ronald Reagan Washington National Airport,United States,38.8521,-77.037697,15,Frontier Airlines
+51178,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MDT,Harrisburg International Airport,United States,40.19350052,-76.76339722,310,Frontier Airlines
+51179,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PDX,Portland International Airport,United States,45.58869934,-122.5979996,31,Frontier Airlines
+51180,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SAN,San Diego International Airport,United States,32.73360062,-117.1900024,17,Frontier Airlines
+51181,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SEA,Seattle Tacoma International Airport,United States,47.44900131,-122.3089981,433,Frontier Airlines
+51182,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,AUS,Austin Bergstrom International Airport,United States,30.19449997,-97.66989899,542,Frontier Airlines
+51183,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BNA,Nashville International Airport,United States,36.12450027,-86.67819977,599,Frontier Airlines
+51184,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CLE,Cleveland Hopkins International Airport,United States,41.4117012,-81.84980011,791,Frontier Airlines
+51185,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,DSM,Des Moines International Airport,United States,41.5340004,-93.6631012,958,Frontier Airlines
+51186,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,IAH,George Bush Intercontinental Houston Airport,United States,29.9843998,-95.34140015,97,Frontier Airlines
+51187,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,IND,Indianapolis International Airport,United States,39.7173,-86.294403,797,Frontier Airlines
+51188,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LIT,Bill & Hillary Clinton National Airport/Adams Field,United States,34.72940063,-92.22429657,262,Frontier Airlines
+51189,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MCI,Kansas City International Airport,United States,39.2976,-94.713898,1026,Frontier Airlines
+51190,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MKE,General Mitchell International Airport,United States,42.94720078,-87.89659882,723,Frontier Airlines
+51191,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,OMA,Eppley Airfield,United States,41.30319977,-95.89409637,984,Frontier Airlines
+51192,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PHF,Newport News Williamsburg International Airport,United States,37.13190079,-76.49299622,42,Frontier Airlines
+51193,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SFO,San Francisco International Airport,United States,37.61899948,-122.375,13,Frontier Airlines
+51194,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SLC,Salt Lake City International Airport,United States,40.78839874,-111.9779968,4227,Frontier Airlines
+51195,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BMI,Central Illinois Regional Airport at Bloomington-Normal,United States,40.47710037,-88.91590118,871,Frontier Airlines
+51196,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,FAR,Hector International Airport,United States,46.92070007,-96.81580353,902,Frontier Airlines
+51197,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,FAT,Fresno Yosemite International Airport,United States,36.77619934,-119.7180023,336,Frontier Airlines
+51198,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,FSD,Joe Foss Field Airport,United States,43.58200073,-96.74189758,1429,Frontier Airlines
+51199,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MSN,Dane County Regional Truax Field,United States,43.13990021,-89.33750153,887,Frontier Airlines
+51200,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,OKC,Will Rogers World Airport,United States,35.39310074,-97.60070038,1295,Frontier Airlines
+51201,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PSP,Palm Springs International Airport,United States,33.82970047,-116.5070038,477,Frontier Airlines
+51202,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,EUG,Mahlon Sweet Field,United States,44.12459946,-123.211998,374,Frontier Airlines
+51203,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,GEG,Spokane International Airport,United States,47.61989975,-117.5339966,2376,Frontier Airlines
+51204,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SBA,Santa Barbara Municipal Airport,United States,34.42620087,-119.8399963,13,Frontier Airlines
+51205,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MDW,Chicago Midway International Airport,United States,41.7859993,-87.75240326,620,Frontier Airlines
+51206,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BZN,Gallatin Field,United States,45.77750015,-111.1529999,4473,Frontier Airlines
+51207,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BIS,Bismarck Municipal Airport,United States,46.77270126,-100.7460022,1661,Frontier Airlines
+51208,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MOT,Minot International Airport,United States,48.25939941,-101.2799988,1716,Frontier Airlines
+51209,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,FMN,Four Corners Regional Airport,United States,36.74119949,-108.2300034,5506,Frontier Airlines
+51210,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PIR,Pierre Regional Airport,United States,44.38270187,-100.2860031,1744,Frontier Airlines
+51211,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,AIA,Alliance Municipal Airport,United States,42.05319977,-102.8040009,3931,Frontier Airlines
+51212,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ALS,San Luis Valley Regional Bergman Field,United States,37.434898,-105.866997,7539,Frontier Airlines
+51213,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CYS,Cheyenne Regional Jerry Olson Field,United States,41.15570068,-104.8119965,6159,Frontier Airlines
+51214,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ILG,New Castle Airport,United States,39.67869949,-75.60649872,80,Frontier Airlines
+51215,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ATL,Hartsfield Jackson Atlanta International Airport,United Kingdom,33.63669968,-84.42810059,1026,Virgin Atlantic Airways
+51216,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MEX,Licenciado Benito Juarez International Airport,Mexico,19.4363,-99.072098,7316,Volaris
+51217,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,TPA,Tampa International Airport,United States,27.97550011,-82.53320313,26,AirTran Airways
+51218,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MCO,Orlando International Airport,United States,28.42939949,-81.30899811,96,AirTran Airways
+51219,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ATL,Hartsfield Jackson Atlanta International Airport,United States,33.63669968,-84.42810059,1026,AirTran Airways
+51220,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LAX,Los Angeles International Airport,United States,33.94250107,-118.4079971,125,AirTran Airways
+51221,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LAS,McCarran International Airport,United States,36.08010101,-115.1520004,2181,AirTran Airways
+51222,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SAT,San Antonio International Airport,United States,29.53370094,-98.46980286,809,AirTran Airways
+51223,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SJD,Los Cabos International Airport,United States,23.15180016,-109.7210007,374,AirTran Airways
+51224,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SNA,John Wayne Airport-Orange County Airport,United States,33.67570114,-117.8679962,56,AirTran Airways
+51225,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CUN,Canc£n International Airport,United States,21.03650093,-86.87709808,22,AirTran Airways
+51226,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MSP,Minneapolis-St Paul International/Wold-Chamberlain Airport,United States,44.88199997,-93.22180176,841,AirTran Airways
+51227,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MSY,Louis Armstrong New Orleans International Airport,United States,29.99340057,-90.25800323,4,AirTran Airways
+51228,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PHX,Phoenix Sky Harbor International Airport,United States,33.43429947,-112.012001,1135,AirTran Airways
+51229,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SAN,San Diego International Airport,United States,32.73360062,-117.1900024,17,AirTran Airways
+51230,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BNA,Nashville International Airport,United States,36.12450027,-86.67819977,599,AirTran Airways
+51231,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BWI,Baltimore/Washington International Thurgood Marshall Airport,United States,39.17539978,-76.66829681,146,AirTran Airways
+51232,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CMH,Port Columbus International Airport,United States,39.9980011,-82.89189911,815,AirTran Airways
+51233,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,IND,Indianapolis International Airport,United States,39.7173,-86.294403,797,AirTran Airways
+51234,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MCI,Kansas City International Airport,United States,39.2976,-94.713898,1026,AirTran Airways
+51235,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MKE,General Mitchell International Airport,United States,42.94720078,-87.89659882,723,AirTran Airways
+51236,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,OMA,Eppley Airfield,United States,41.30319977,-95.89409637,984,AirTran Airways
+51237,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ORF,Norfolk International Airport,United States,36.89459991,-76.20120239,26,AirTran Airways
+51238,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SLC,Salt Lake City International Airport,United States,40.78839874,-111.9779968,4227,AirTran Airways
+51239,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SMF,Sacramento International Airport,United States,38.69540024,-121.5910034,27,AirTran Airways
+51240,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ABQ,Albuquerque International Sunport Airport,United States,35.04019928,-106.6090012,5355,AirTran Airways
+51241,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,AMA,Rick Husband Amarillo International Airport,United States,35.2193985,-101.7060013,3607,AirTran Airways
+51242,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,OKC,Will Rogers World Airport,United States,35.39310074,-97.60070038,1295,AirTran Airways
+51243,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ONT,Ontario International Airport,United States,34.05599976,-117.6009979,944,AirTran Airways
+51244,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,TUS,Tucson International Airport,United States,32.11610031,-110.9410019,2643,AirTran Airways
+51245,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,GEG,Spokane International Airport,United States,47.61989975,-117.5339966,2376,AirTran Airways
+51246,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MDW,Chicago Midway International Airport,United States,41.7859993,-87.75240326,620,AirTran Airways
+51247,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,STL,Lambert St Louis International Airport,United States,38.74869919,-90.37000275,618,Southwest Airlines
+51248,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,FLL,Fort Lauderdale Hollywood International Airport,United States,26.07259941,-80.15270233,9,Southwest Airlines
+51249,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,TPA,Tampa International Airport,United States,27.97550011,-82.53320313,26,Southwest Airlines
+51250,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MCO,Orlando International Airport,United States,28.42939949,-81.30899811,96,Southwest Airlines
+51251,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ATL,Hartsfield Jackson Atlanta International Airport,United States,33.63669968,-84.42810059,1026,Southwest Airlines
+51252,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,JAX,Jacksonville International Airport,United States,30.49410057,-81.68789673,30,Southwest Airlines
+51253,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LAX,Los Angeles International Airport,United States,33.94250107,-118.4079971,125,Southwest Airlines
+51254,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LAS,McCarran International Airport,United States,36.08010101,-115.1520004,2181,Southwest Airlines
+51255,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SAT,San Antonio International Airport,United States,29.53370094,-98.46980286,809,Southwest Airlines
+51256,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SNA,John Wayne Airport-Orange County Airport,United States,33.67570114,-117.8679962,56,Southwest Airlines
+51257,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MSP,Minneapolis-St Paul International/Wold-Chamberlain Airport,United States,44.88199997,-93.22180176,841,Southwest Airlines
+51258,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MSY,Louis Armstrong New Orleans International Airport,United States,29.99340057,-90.25800323,4,Southwest Airlines
+51259,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,DTW,Detroit Metropolitan Wayne County Airport,United States,42.21239853,-83.35340118,645,Southwest Airlines
+51260,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LGA,La Guardia Airport,United States,40.77719879,-73.87259674,21,Southwest Airlines
+51261,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BOS,General Edward Lawrence Logan International Airport,United States,42.36429977,-71.00520325,20,Southwest Airlines
+51262,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,EWR,Newark Liberty International Airport,United States,40.69250107,-74.16870117,18,Southwest Airlines
+51263,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PHL,Philadelphia International Airport,United States,39.87189865,-75.2410965,36,Southwest Airlines
+51264,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PHX,Phoenix Sky Harbor International Airport,United States,33.43429947,-112.012001,1135,Southwest Airlines
+51265,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,IAD,Washington Dulles International Airport,United States,38.94449997,-77.45580292,312,Southwest Airlines
+51266,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PIT,Pittsburgh International Airport,United States,40.49150085,-80.23290253,1203,Southwest Airlines
+51267,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PDX,Portland International Airport,United States,45.58869934,-122.5979996,31,Southwest Airlines
+51268,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SAN,San Diego International Airport,United States,32.73360062,-117.1900024,17,Southwest Airlines
+51269,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SEA,Seattle Tacoma International Airport,United States,47.44900131,-122.3089981,433,Southwest Airlines
+51270,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,AUS,Austin Bergstrom International Airport,United States,30.19449997,-97.66989899,542,Southwest Airlines
+51271,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BDL,Bradley International Airport,United States,41.93889999,-72.68319702,173,Southwest Airlines
+51272,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BNA,Nashville International Airport,United States,36.12450027,-86.67819977,599,Southwest Airlines
+51273,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BWI,Baltimore/Washington International Thurgood Marshall Airport,United States,39.17539978,-76.66829681,146,Southwest Airlines
+51274,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CAK,Akron Canton Regional Airport,United States,40.91609955,-81.44219971,1228,Southwest Airlines
+51275,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CMH,Port Columbus International Airport,United States,39.9980011,-82.89189911,815,Southwest Airlines
+51276,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,DAY,James M Cox Dayton International Airport,United States,39.90240097,-84.2193985,1009,Southwest Airlines
+51277,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,IND,Indianapolis International Airport,United States,39.7173,-86.294403,797,Southwest Airlines
+51278,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MCI,Kansas City International Airport,United States,39.2976,-94.713898,1026,Southwest Airlines
+51279,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MKE,General Mitchell International Airport,United States,42.94720078,-87.89659882,723,Southwest Airlines
+51280,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,OMA,Eppley Airfield,United States,41.30319977,-95.89409637,984,Southwest Airlines
+51281,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,RDU,Raleigh Durham International Airport,United States,35.87760162,-78.78749847,435,Southwest Airlines
+51282,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SDF,Louisville International Standiford Field,United States,38.1744,-85.736,501,Southwest Airlines
+51283,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SFO,San Francisco International Airport,United States,37.61899948,-122.375,13,Southwest Airlines
+51284,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SLC,Salt Lake City International Airport,United States,40.78839874,-111.9779968,4227,Southwest Airlines
+51285,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SMF,Sacramento International Airport,United States,38.69540024,-121.5910034,27,Southwest Airlines
+51286,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ABQ,Albuquerque International Sunport Airport,United States,35.04019928,-106.6090012,5355,Southwest Airlines
+51287,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,AMA,Rick Husband Amarillo International Airport,United States,35.2193985,-101.7060013,3607,Southwest Airlines
+51288,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,GRR,Gerald R. Ford International Airport,United States,42.88079834,-85.52279663,794,Southwest Airlines
+51289,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,HOU,William P Hobby Airport,United States,29.64539909,-95.27890015,46,Southwest Airlines
+51290,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,OKC,Will Rogers World Airport,United States,35.39310074,-97.60070038,1295,Southwest Airlines
+51291,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ONT,Ontario International Airport,United States,34.05599976,-117.6009979,944,Southwest Airlines
+51292,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,RNO,Reno Tahoe International Airport,United States,39.49909973,-119.7679977,4415,Southwest Airlines
+51293,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SJC,Norman Y. Mineta San Jose International Airport,United States,37.36259842,-121.9290009,62,Southwest Airlines
+51294,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,TUL,Tulsa International Airport,United States,36.19839859,-95.88809967,677,Southwest Airlines
+51295,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,TUS,Tucson International Airport,United States,32.11610031,-110.9410019,2643,Southwest Airlines
+51296,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,OAK,Metropolitan Oakland International Airport,United States,37.72129822,-122.2210007,9,Southwest Airlines
+51297,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BUR,Bob Hope Airport,United States,34.20069885,-118.3590012,778,Southwest Airlines
+51298,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BOI,Boise Air Terminal/Gowen field,United States,43.56439972,-116.2229996,2871,Southwest Airlines
+51299,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,GEG,Spokane International Airport,United States,47.61989975,-117.5339966,2376,Southwest Airlines
+51300,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MDW,Chicago Midway International Airport,United States,41.7859993,-87.75240326,620,Southwest Airlines
+51301,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,FMN,Four Corners Regional Airport,United States,36.74119949,-108.2300034,5506,Great Lakes Airlines
+51302,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PIR,Pierre Regional Airport,United States,44.38270187,-100.2860031,1744,Great Lakes Airlines
+51303,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LBL,Liberal Mid-America Regional Airport,United States,37.0442009,-100.9599991,2885,Great Lakes Airlines
+51304,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,AIA,Alliance Municipal Airport,United States,42.05319977,-102.8040009,3931,Great Lakes Airlines
+51305,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,ALS,San Luis Valley Regional Bergman Field,United States,37.434898,-105.866997,7539,Great Lakes Airlines
+51306,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CYS,Cheyenne Regional Jerry Olson Field,United States,41.15570068,-104.8119965,6159,Great Lakes Airlines
+51307,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,PGA,Page Municipal Airport,United States,36.92610168,-111.447998,4316,Great Lakes Airlines
+51308,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,DDC,Dodge City Regional Airport,United States,37.76340103,-99.96559906,2594,Great Lakes Airlines
+51309,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,BFF,Western Neb. Rgnl/William B. Heilig Airport,United States,41.87400055,-103.5960007,3967,Great Lakes Airlines
+51310,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,CEZ,Cortez Municipal Airport,United States,37.3030014,-108.6279984,5918,Great Lakes Airlines
+51311,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,LBF,North Platte Regional Airport Lee Bird Field,United States,41.12620163,-100.6839981,2777,Great Lakes Airlines
+51312,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,MCK,Mc Cook Ben Nelson Regional Airport,United States,40.20629883,-100.5920029,2583,Great Lakes Airlines
+51313,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,RIW,Riverton Regional Airport,United States,43.06420136,-108.4599991,5525,Great Lakes Airlines
+51314,DEN,Denver International Airport,United States,39.86169815,-104.6729965,5431,SHR,Sheridan County Airport,United States,44.76919937,-106.9800034,4021,Great Lakes Airlines
