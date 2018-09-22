@@ -10,3 +10,6 @@ The challenge in this piece of the project was scraping and filtering SkyScanner
 Both pieces are compiled onto a website running with Flask
 
 ![Denver Routes Map](/DenRoutes.png?raw=true "Airlines Flying Out of Denver")
+
+
+![flight deals](/deals.png?raw=true "current deals from Denver in December")
